@@ -242,7 +242,9 @@ Log In
       <div className="absolute top-[42.24rem] left-[8rem] w-[27.59rem] h-[3.75rem] text-center text-[1.38rem]">
         <div className="absolute top-[0rem] left-[0rem] rounded-md bg-main-color w-[27.59rem] h-[3.75rem] bg-red-600" />
         <b className="absolute top-[1.03rem] left-[10.89rem] tracking-[0.2px] text-white">
-          Register
+                       <Link href="sections">
+    Register
+  </Link>
         </b>
       </div>
       <div className="absolute top-[14.37rem] left-[8.02rem] text-[1.75rem] tracking-[0.2px] font-medium text-text-color text-center">
