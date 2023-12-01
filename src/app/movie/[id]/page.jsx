@@ -16,7 +16,7 @@ return <p>Loading...</p>;
 }
 
 return (
-<main className="container mx-auto  relative xl:ml-60">
+<main className="container mx-auto  relative -ml-10">
 
 <div className="relative bg-default-white w-full h-[157.44rem] overflow-hidden text-left text-[1.13rem] text-text-color font-label-medium-label">
       <div className="absolute top-[137.36rem] left-[6.25rem] w-[77.5rem] h-[13.38rem] text-[1.25rem] text-gray-1">
@@ -428,9 +428,7 @@ return (
     Log In
   </Link></b>
 
-    <b className="bg-red-600 text-white p-2 rounded-lg tracking-wide font-semibold font-sm font-display focus:outline-none focus:shadow-outline hover:bg-red-900 shadow-lg px-6">  <Link href="/regis">
-    Sign Up
-  </Link></b>
+    <b className="bg-red-600 text-white p-2 rounded-lg tracking-wide font-semibold font-sm font-display focus:outline-none focus:shadow-outline hover:bg-red-900 shadow-lg px-6">Sign up</b>
 
 </div>
 

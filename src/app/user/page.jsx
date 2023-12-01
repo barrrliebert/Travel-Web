@@ -3,7 +3,7 @@ import Link from 'next/link';
 const user = () => {
     return (
         <>
-        <main className="container mx-auto  relative xl:ml-60">
+        <main className="container mx-auto  relative -ml-10">
 <div className="relative bg-default-white w-full h-[78.19rem] overflow-hidden text-left text-[1.13rem] text-default-white font-subtitle-subtitle-2">
       <div className="absolute top-[0rem] left-[0rem] bg-gray-300 w-[90rem] h-[57.14rem]" />
       <div className="absolute top-[0rem] left-[0rem] w-[90rem] h-[4.5rem] text-[0.88rem] bg-white">
@@ -242,9 +242,7 @@ Log In
       <div className="absolute top-[42.24rem] left-[8rem] w-[27.59rem] h-[3.75rem] text-center text-[1.38rem]">
         <div className="absolute top-[0rem] left-[0rem] rounded-md bg-main-color w-[27.59rem] h-[3.75rem] bg-red-600" />
         <b className="absolute top-[1.03rem] left-[10.89rem] tracking-[0.2px] text-white">
-                       <Link href="sections">
-    Register
-  </Link>
+          Register
         </b>
       </div>
       <div className="absolute top-[14.37rem] left-[8.02rem] text-[1.75rem] tracking-[0.2px] font-medium text-text-color text-center">

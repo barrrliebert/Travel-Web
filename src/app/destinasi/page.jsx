@@ -5,7 +5,7 @@ import { SlArrowDown } from "react-icons/sl";
 
 const Destinasi = () => {
     return (
-      <main className="container mx-auto relative -ml-10">
+      <main className="container mx-auto relative flex -ml-10">
       <div className="relative bg-white w-full h-[166.44rem] overflow-hidden text-left text-[0.88rem] text-text-color font-body-body-2">
         <div className="absolute top-[12.91rem] left-[6.21rem] box-border w-[77.64rem] h-[0.06rem] border-t-[1px] border-solid border-gainsboro-100" />
         <div className="absolute top-[0rem] left-[0.01rem] w-[90rem] h-[4.5rem]">
