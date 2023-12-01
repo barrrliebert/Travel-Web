@@ -428,7 +428,9 @@ return (
     Log In
   </Link></b>
 
-    <b className="bg-red-600 text-white p-2 rounded-lg tracking-wide font-semibold font-sm font-display focus:outline-none focus:shadow-outline hover:bg-red-900 shadow-lg px-6">Sign up</b>
+    <b className="bg-red-600 text-white p-2 rounded-lg tracking-wide font-semibold font-sm font-display focus:outline-none focus:shadow-outline hover:bg-red-900 shadow-lg px-6">  <Link href="/regis">
+    Sign Up
+  </Link></b>
 
 </div>
 
