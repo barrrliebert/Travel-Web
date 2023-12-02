@@ -3,7 +3,7 @@ import Link from 'next/link';
 const user = () => {
     return (
         <>
-<div className="relative bg-default-white w-full h-[78.19rem] overflow-hidden text-left text-[1.13rem] text-default-white font-subtitle-subtitle-2 xl:ml-60">
+<div className="relative bg-default-white w-full h-[78.19rem] overflow-hidden text-left text-[1.13rem] text-default-white font-subtitle-subtitle-2">
       <div className="absolute top-[0rem] left-[0rem] bg-gray-300 w-[90rem] h-[57.14rem]" />
       <div className="absolute top-[0rem] left-[0rem] w-[90rem] h-[4.5rem] text-[0.88rem] bg-white">
         <div className="absolute h-full w-full top-[0%] right-[0%] bottom-[0%] left-[0%] bg-white" />
@@ -252,7 +252,6 @@ Log In
         Candi Borobudur, Magelang
       </div>
     </div>
-    </main>
     </>
     );
 };
